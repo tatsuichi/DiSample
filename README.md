@@ -1,0 +1,2 @@
+# DiSample
+C#でDIをする
